@@ -1,2 +1,7 @@
-# jedt-travel-time-prediction
-Machine learning model based on dead reckoning to predict bus arrival times
+# Workshop: Modèle d'apprentissage automatique de navigation à l'estime pour les lignes de transport
+
+## I. Introduction
+## II. Qu'est ce que l'apprentissage automatique ?
+## III. Les types d'apprentissages automatiques
+## IV. Choix des algorithmes
+## V. Implémentation
